@@ -192,7 +192,7 @@ export const ProjectItems = [
       name: "GitHub",
     },
   ],
-  githubRepo: "https://github.com/Rajkumar77469/NITC-PLACEMENT-WEBSITE/tree/tenp12",
+  githubRepo: "https://github.com/Rajkumar77469/Rajkumar_Portfolio",
 },
 ];
 
